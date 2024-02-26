@@ -1,4 +1,4 @@
-# Mobile Applications Project
+# Mobile Applications I Project 2
 
 ## Description
 
